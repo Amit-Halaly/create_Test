@@ -17,7 +17,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/student-qna-system.git
+git clone https://github.com/yourusername/create_Test.git
 cd student-qna-system
 Compile the Program:
 Use your favorite IDE or compile from the command line:
