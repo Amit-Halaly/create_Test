@@ -17,19 +17,23 @@ Clone the Repository:
 
 bash
 Copy code
+```
 git clone https://github.com/yourusername/create_Test.git
 cd student-qna-system
 Compile the Program:
 Use your favorite IDE or compile from the command line:
-
+```
 bash
 Copy code
+```
 javac -d bin src/*.java
 Run the Program:
-
+```
 bash
 Copy code
+```
 java -cp bin Main
+```
 Interact with the Application:
 Follow the prompts to create subjects, add questions, and manage student interactions.
 
