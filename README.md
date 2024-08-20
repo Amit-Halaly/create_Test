@@ -14,23 +14,16 @@ OOP Principles: The application is built following core OOP concepts such as enc
 Data Structures: Utilizes Java collections for managing and organizing questions and answers efficiently.
 # How to Run the Program
 Clone the Repository:
-
-bash
-Copy code
 ```
 git clone https://github.com/yourusername/create_Test.git
-cd student-qna-system
+cd create_Test
+```
 Compile the Program:
 Use your favorite IDE or compile from the command line:
-```
-bash
-Copy code
 ```
 javac -d bin src/*.java
 ```
 Run the Program:
-bash
-Copy code
 ```
 java -cp bin Main
 ```
