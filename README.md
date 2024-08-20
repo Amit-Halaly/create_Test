@@ -27,8 +27,8 @@ bash
 Copy code
 ```
 javac -d bin src/*.java
-Run the Program:
 ```
+Run the Program:
 bash
 Copy code
 ```
